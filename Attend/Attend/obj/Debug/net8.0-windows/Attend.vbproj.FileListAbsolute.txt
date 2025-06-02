@@ -1,0 +1,10 @@
+C:\Users\719731!\source\repos\Attend\Attend\obj\Debug\net8.0-windows\Attend.Form1.resources
+C:\Users\719731!\source\repos\Attend\Attend\obj\Debug\net8.0-windows\Attend.Form2.resources
+C:\Users\719731!\source\repos\Attend\Attend\obj\Debug\net8.0-windows\Attend.Form3.resources
+C:\Users\719731!\source\repos\Attend\Attend\obj\Debug\net8.0-windows\Attend.Form4.resources
+C:\Users\719731!\source\repos\Attend\Attend\obj\Debug\net8.0-windows\Attend.Form5.resources
+C:\Users\719731!\source\repos\Attend\Attend\obj\Debug\net8.0-windows\Attend.vbproj.GenerateResource.cache
+C:\Users\719731!\source\repos\Attend\Attend\obj\Debug\net8.0-windows\Attend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\719731!\source\repos\Attend\Attend\obj\Debug\net8.0-windows\Attend.AssemblyInfoInputs.cache
+C:\Users\719731!\source\repos\Attend\Attend\obj\Debug\net8.0-windows\Attend.AssemblyInfo.vb
+C:\Users\719731!\source\repos\Attend\Attend\obj\Debug\net8.0-windows\Attend.vbproj.CoreCompileInputs.cache
